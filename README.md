@@ -32,7 +32,7 @@ The application focuses on interactivity, clean UI design, and simple logic impl
 ### ❓ Question Screen
 ![Question 1](https://github.com/user-attachments/assets/b8294f7e-50f6-4628-b57e-4f9da8ff5f0b)
 
-![Question 2](https://github.com/user-attachments/assets/ca1758ad-6b4a-4278-8a8d-25708e3a3b8c)
+![Question 2](https://github.com/user-attachments/assets/84b671df-eee2-4286-862a-f03d28927c87)
 
 ### 🏁 Final Result
 ![Result](https://github.com/user-attachments/assets/9a42c629-ca76-478f-b557-11adc776d656)
